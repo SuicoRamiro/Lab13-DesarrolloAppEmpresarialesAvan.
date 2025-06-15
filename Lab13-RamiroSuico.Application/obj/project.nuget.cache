@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZb9UzMWpAc=",
+  "success": true,
+  "projectFilePath": "/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Application/Lab13-RamiroSuico.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramiro/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/ramiro/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/bin/Debug/net9.0/Lab13-RamiroSuico.Domain.deps.json
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/bin/Debug/net9.0/Lab13-RamiroSuico.Domain.dll
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/bin/Debug/net9.0/Lab13-RamiroSuico.Domain.pdb
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/Lab13-RamiroSuico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/Lab13-RamiroSuico.Domain.AssemblyInfoInputs.cache
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/Lab13-RamiroSuico.Domain.AssemblyInfo.cs
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/Lab13-RamiroSuico.Domain.csproj.CoreCompileInputs.cache
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/Lab13-RamiroSuico.Domain.dll
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/refint/Lab13-RamiroSuico.Domain.dll
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/Lab13-RamiroSuico.Domain.pdb
+/Users/ramiro/Documents/Semestre6/Desarrollo de Aplicaciones Empresariales Avanzado/Proyectos/Semana13/Lab13-RamiroSuico.API/Lab13-RamiroSuico.Domain/obj/Debug/net9.0/ref/Lab13-RamiroSuico.Domain.dll
