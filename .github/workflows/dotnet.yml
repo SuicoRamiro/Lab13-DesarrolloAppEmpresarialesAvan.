@@ -1,0 +1,17 @@
+name: .NET Build and Test on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ] jobs:
+  build:
+    runs-on: ubuntu-latest steps: - name: Checkout código
+      uses: actions/checkout@v3
+    - name: Instalar .NET
+      uses: actions/setup-dotnet@v3 with:
+        dotnet-version: 9.0.x
+    - name: Restaurar dependencias
+      run: dotnet restore
+    - name: Compilar
+      run: dotnet build --no-restore
+    - name: Ejecutar pruebas
+      run: dotnet test --no-build --verbosity normal
