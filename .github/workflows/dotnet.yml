@@ -1,0 +1,16 @@
+name: Build and Deploy .NET Application on:
+  push:
+    branches:
+      - master # Cambia a main si renombras la rama jobs:
+  build:
+    runs-on: ubuntu-latest steps: - name: Check out code
+      uses: actions/checkout@v2
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v1 with:
+        dotnet-version: '9.0.x'
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Build solution
+      run: dotnet build Lab13-RamiroSuico.API.sln --configuration Release
+    - name: Publish API
+      run: dotnet publish Lab13-RamiroSuico.API/Lab13-RamiroSuico.API.csproj --configuration Release --output ./published
